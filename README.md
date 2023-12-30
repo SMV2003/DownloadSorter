@@ -17,7 +17,7 @@ src (str): Directory path from which files will be deleted.
 import os
 import shutil
 
-downloads = "C:\\Users\\vedak_7jcynkb\\Downloads"
+downloads = "C:\\Users\\vs\\Downloads"
 destination = "D:\\SortedDownloads"
 
 # Organize files in the Downloads directory and move them to the destination directory
