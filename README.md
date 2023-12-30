@@ -26,7 +26,6 @@ copy_by_type(downloads, destination)
 # Delete all files (excluding folders) from the Downloads directory
 delete_files(downloads)
 ```
-Make sure to replace the downloads and destination paths with your actual source and destination directory paths.
 
 ## Important Note
 The script assumes that the files in the source directory are not currently in use or locked by other processes.
