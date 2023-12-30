@@ -32,7 +32,7 @@ def delete_files(src):
         else:
             os.remove(file)
 
-downloads = "C:\\Users\\vedak_7jcynkb\\Downloads"
+downloads = "C:\\Users\\sv\\Downloads"
 file_names = os.listdir()
 destination = "D:\\SortedDownloads"
 
